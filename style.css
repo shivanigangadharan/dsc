@@ -19,10 +19,10 @@ To be covered:-
     background-size: cover;
     width: 100%;
     height: 100%;
-    font-size: 40px;
+    font-size: 39px;
     font-weight: 100;
-    color: white;
-    padding-top: 70px;
+    color: ghostwhite;
+    padding-top: 71px;
     padding-left: 60%;
     background-repeat: no-repeat;
 }
@@ -40,7 +40,7 @@ To be covered:-
     widows: 50%;
     height: 50%;
     border: 3px solid black;
-    margin-top: 60px;
+    margin-top: 61px;
     margin-left: 38%;
 }
 #sample:hover{
